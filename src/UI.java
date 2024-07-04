@@ -23,7 +23,8 @@ public class UI {
                 resultado = calculadora.suma(n1, n2); //sumar
                 break;
             case 2:
-                resultado = calculadora.resta(n1, n2);
+                resultado = calculadora.resta(n1, n2); //restar
+            
                 break;
             case 3:
                 resultado = calculadora.multiplicacion(n1, n2);
