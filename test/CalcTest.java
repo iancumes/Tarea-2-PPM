@@ -26,5 +26,5 @@ public class CalcTest {
         Calc calc = new Calc();
         assertEquals(6, calc.multiplicacion(2, 3));
         assertEquals(-6, calc.multiplicacion(2, -3));
-        assertEquals(0, calc.multiplicacion(0,3))}
+        assertEquals(0, calc.multiplicacion(0,3));}
 }
