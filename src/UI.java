@@ -5,7 +5,6 @@ public class UI {
         Calc calculadora = new Calc();
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Bienvenido a la calculadora");
         System.out.println("Elija una operación: ");
         System.out.println("1. Suma");
         System.out.println("2. Resta");
