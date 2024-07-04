@@ -20,7 +20,7 @@ public class UI {
         int resultado = 0;
         switch (operacion) {
             case 1:
-                resultado = calculadora.suma(n1, n2);
+                resultado = calculadora.suma(n1, n2); //sumar
                 break;
             case 2:
                 resultado = calculadora.resta(n1, n2);

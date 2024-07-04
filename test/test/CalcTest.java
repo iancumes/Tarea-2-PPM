@@ -1,4 +1,4 @@
-
+package test;
 import org.junit.Test;
 import src.Calc;
 import static org.junit.Assert.assertEquals;
