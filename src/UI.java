@@ -20,11 +20,11 @@ public class UI {
         int resultado = 0;
         switch (operacion) {
             case 1:
-                resultado = calculadora.suma(n1, n2); //sumar
+                resultado = calculadora.suma(n1, n2); // sumar
                 break;
             case 2:
-                resultado = calculadora.resta(n1, n2); //restar
-            
+                resultado = calculadora.resta(n1, n2); // restar
+
                 break;
             case 3:
                 resultado = calculadora.multiplicacion(n1, n2);
@@ -37,4 +37,5 @@ public class UI {
         System.out.println("El resultado es: " + resultado);
     }
 }
-//Prueba conflicto
+// Prueba conflicto
+// Prueba Reverse
